@@ -1,0 +1,6 @@
+# Single file just name
+secret.txt
+
+# *. indicates all files of tha extencions
+*.log
+
